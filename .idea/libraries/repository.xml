@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="repository">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tradingSys2023.zip!/" />
+      <root url="jar://$PROJECT_DIR$/单因子分析2023.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
